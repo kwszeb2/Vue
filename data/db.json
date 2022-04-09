@@ -1,0 +1,58 @@
+{
+    "prods": [
+    {
+        "id": 1,
+        "ProdName": "Bookshelf",
+        "ProdPrice": "$40.00",
+        "ProdImg": "bookshelf.jpg"
+    },
+    {
+        "id": 2,
+        "ProdName": "Bike",
+        "ProdPrice": "$300.00",
+        "ProdImg": "bike.jpg"
+    },
+    {
+        "id": 3,
+        "ProdName": "Computer",
+        "ProdPrice": "$1,000.00",
+        "ProdImg": "pc.jpg"
+    },
+    {
+        "id": 4,
+        "ProdName": "Watch",
+        "ProdPrice": "$150.00",
+        "ProdImg": "watch.jpg"
+    },
+    {
+        "id": 5,
+        "ProdName": "Chair",
+        "ProdPrice": "$50.00",
+        "ProdImg": "chair.jpg"
+    },
+    {
+        "id": 6,
+        "ProdName": "Desk",
+        "ProdPrice": "$100.00",
+        "ProdImg": "desk.jpg"
+    },
+    {
+        "id": 7,
+        "ProdName": "Pen",
+        "ProdPrice": "$2.50",
+        "ProdImg": "pen.jpg"
+    },
+    {
+        "id": 8,
+        "ProdName": "Plant",
+        "ProdPrice": "$2.50",
+        "ProdImg": "plant.jpg"
+    },
+    {
+        "id": 9,
+        "ProdName": "Picture Frame",
+        "ProdPrice": "$22.00",
+        "ProdImg": "frame.jpg"
+    }
+]
+}
